@@ -1,0 +1,12 @@
+# IDE Files
+.vscode/
+
+# Build output
+build/
+
+# Logs
+logs
+*.log
+
+#Temp
+temp/
